@@ -1,0 +1,42 @@
+body{
+    background-color:white;
+}
+#table1{
+    text-align: center;
+    background-color: white;
+}
+#table td{
+    padding: 20px;
+}
+#table1 a{
+    font-size: 25px;
+    color: red;
+    text-decoration: none;
+}
+.banner{
+    background: linear-gradient(rgba(0, 0, 0, 0.718),rgba(0, 0, 0, 0.74)), url(../IMAGES/plantain-tree.jpg);
+    background-size: cover;
+    /*background-IMAGES: url(../IMAGES/plantain-tree.jpg); */
+    padding: 10rem 9rem 10rem 5rem;
+}
+.banner span{
+    background-color: #fff;
+    padding: 7px;
+    border-radius: 10px;
+}
+.banner h1{
+    font-size: 3rem;
+    display: inline;
+    color: #e1e1e1;
+    text-shadow: 1px 1px 4px red;
+}
+.banner p{
+    color: #cacaca;
+    line-height: 25px;
+}
+.banner button{
+    padding: 5px;
+    font-size: 12px 20px;
+    background-color: #fff;
+    color: #000;
+}
